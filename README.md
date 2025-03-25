@@ -27,36 +27,3 @@ https://devagridhub.github.io/interview-technical-task-rk/
      5.checking the img source is link or not
 
 
-
-##File Structure 
-/rakuten-product-store
-
-├── /public
-
-│   ├── index.html             # The main HTML file
-
-│   └── /assets
-│       └── logo.png           # Example image or other static assets
-├── /src
-│   ├── /components
-│   │   ├── ProductCard.tsx    # Product card component
-│   │   ├── ProductList.tsx    # Displays the list of products
-|   |   ├── ProductCard.test.tsx    # test cases for product 
-│   │   ├── Header.tsx         # Header component
-│   │   └── Footer.tsx         # Footer component
-│   ├── /data
-│   │   └── products.json      # Static product data file
-│   ├── /styles
-│   │   └── App.css            # Global styles (if any)
-│   ├── /types
-│   │   └── index.d.ts         # TypeScript types (e.g., Product type)
-│   ├── App.tsx                # Main React component
-│   ├── App.test.tsx           # Test file for App.tsx
-│   ├── index.tsx              # Entry point for the app
-│   ├── reportWebVitals.ts     # Web vitals (optional)
-│   └── setupTests.ts          # Setup file for testing (optional)
-├── .gitignore                 # Git ignore file
-├── package.json               # Project metadata and dependencies
-├── tsconfig.json              # TypeScript configuration
-├── README.md                  # Project documentation (README)
-└── package-lock.json          # Dependency lock file
