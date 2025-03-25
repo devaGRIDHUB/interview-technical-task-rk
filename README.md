@@ -30,8 +30,11 @@ https://devagridhub.github.io/interview-technical-task-rk/
 
 ##File Structure 
 /rakuten-product-store
+
 ├── /public
+
 │   ├── index.html             # The main HTML file
+
 │   └── /assets
 │       └── logo.png           # Example image or other static assets
 ├── /src
