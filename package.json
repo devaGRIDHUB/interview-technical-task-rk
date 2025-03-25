@@ -19,7 +19,7 @@
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://devagridhub.github.io/rakuten-frontend-task",
+  "homepage": "https://devagridhub.github.io/interview-technical-task-rk",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
